@@ -1,0 +1,11 @@
+.nav-tomate {
+	background-color: #FAFAFA;
+	width: 50px;
+}
+.nav-tomate__index {
+	list-style-type: none;
+}
+.nav-tomate__index_li {
+	float: left;
+	padding: 30px;
+}
